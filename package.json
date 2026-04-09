@@ -1,0 +1,14 @@
+{
+  "name": "labs_JSmodules",
+  "version": "1.0.0",
+  "dependencies": {
+    "datejs": "^1.0.0-rc3"
+  },
+  "scripts": {
+    "test-local": "jest",
+    "test": "cg junitxml __tests__/*.test.js"
+  },
+  "devDependencies": {
+    "jest": "^30.3.0"
+  }
+}
